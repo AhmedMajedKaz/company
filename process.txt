@@ -1,1 +1,8 @@
-
+using System;
+namespace dd {
+class asd {
+public static void Main() {
+Console.WriteLine("ahmed hate me");
+}
+}
+}
