@@ -1,1 +1,5 @@
-Start IMG-20190831-WA0000.jpg
+Cd users
+Cd admin
+Cd desktop
+csc sd.cs
+sd
