@@ -1,5 +1,1 @@
-Cd users
-Cd admin
-Cd desktop
-csc sd.cs
-sd
+
